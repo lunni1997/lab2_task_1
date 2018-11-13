@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background:  linear-gradient(to top left, #000, #fff) no-repeat;
+
+
+
+}
+.form{
+		
+	text-align: center;
+	margin-top: 35vh;
+	min-height:65vh
+}
+h1{
+	color: #eae1c9;
+  	font-weight: 100;
+  	margin-bottom: 13px;
+}
+input{
+	text-align: center;
+	width: 200px;
+	height: 30px;
+	margin: 3px;
+	background: linear-gradient(to right , #969696, #808080);
+	border-radius: 3px;
+	border: 1px #c6cbcd solid;
+	
+}
+input::placeholder{
+	color: #d3c7b9;
+}
+.submit{
+	text-align: center;
+	width: 202px;
+	height: 27px;
+	margin: 3px;
+	background: white;
+	border-radius: 3px;
+	font-weight:bold ;	
+}
